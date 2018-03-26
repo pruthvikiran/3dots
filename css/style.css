@@ -1,9 +1,4 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
+
 body{
 	padding:0;
 	margin:0;
@@ -1728,6 +1723,18 @@ table.table.table-striped,.table-bordered,.bs-docs-example {
     margin-bottom: 20px;
     font-weight: 600;
     letter-spacing: 2px;
+}
+.w3layouts_about_grid_right h4 {
+    font-size: 28px;
+    color: #86c724;
+    margin-bottom: 20px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+.w3layouts_about_grid_right li {
+    line-height: 28px;
+    color: #212121;
+    font-size: 15px;
 }
 /*-- //about --*/
 /*-- team --*/
